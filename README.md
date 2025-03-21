@@ -33,7 +33,7 @@ Una aplicación sencilla pero poderosa para gestionar tus tareas diarias. Este p
 ## Estructura del proyecto 📂
 ```
 todo-app/
-├── backend/  # Código del backend (Flask)
+├── background/  # Código del backend (Flask)
 │   ├── app.py  # Punto de entrada de la API
 │   ├── database.py  # Configuración de la base de datos
 │   └── requirements.txt  # Dependencias del backend
@@ -64,7 +64,7 @@ todo-app/
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/tu-usuario/todo-app.git
-   cd todo-app/backend
+   cd todo-app/background
    ```
 2. Instala las dependencias:
    ```bash
